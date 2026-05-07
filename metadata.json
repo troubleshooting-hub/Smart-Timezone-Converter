@@ -1,0 +1,6 @@
+{
+  "name": "Smart Timezone Converter",
+  "description": "A precision-focused timezone converter for global teams with accurate DST awareness and IANA database support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
